@@ -1,6 +1,8 @@
 # 💫 About Me:
-Estudante de análise e desenvolvimento de sistemas realizando novos projetos.
-
+👋 Olá! Seja bem-vindo ao meu perfil no GitHub!
+💻 Sou um desenvolvedor apaixonado por tecnologia e inovação.
+🎯 Objetivo: Criar soluções práticas e intuitivas que melhorem o dia a dia das pessoas.
+📚 Sempre em busca de aprendizado contínuo, com interesse em Frontend/Backend, arquitetura de software e boas práticas de desenvolvimento mobile.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/one_tonio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antônio-neto-034b97263) 
