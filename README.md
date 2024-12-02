@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Seja bem-vindo ao meu perfil no GitHub!
+👋 Olá! Seja bem-vindo ao meu perfil no GitHub! /n
 💻 Sou um desenvolvedor apaixonado por tecnologia e inovação.
 🎯 Objetivo: Criar soluções práticas e intuitivas que melhorem o dia a dia das pessoas.
 📚 Sempre em busca de aprendizado contínuo, com interesse em Frontend/Backend, arquitetura de software e boas práticas de desenvolvimento mobile.
